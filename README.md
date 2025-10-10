@@ -38,14 +38,31 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,html,css,vscode,phpstorm,github,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,express,firebase,mongodb,c,cpp,java,mysql,magento" /><br>
-</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=php,python,java,c,cpp,cpp" /><br/>
+      <b>Languages</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=laravel,express,bootstrap,angular" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" width="48" height="48" />
+      <br/>
+      <b>Frameworks</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=github,gitlab,vscode,phpstorm,pycharm,postman,docker,figma" /><br/>
+      <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,mongodb" /><br/>
+      <b>Tools & Databases</b>
+    </td>
+  </tr>
+</table>
 
 <br/>
+
 <hr/>
 
 <div align="center">
