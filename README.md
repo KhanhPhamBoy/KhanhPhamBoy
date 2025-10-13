@@ -16,7 +16,7 @@
 
 🧩 Working on **Marketplace Platforms**  
 🌱 Learning **Docker • AWS • Supabase**  
-💬 Ask me about **PHP, Laravel, Magento, or anything [here](https://github.com/karman/karman/issues)**  
+💬 Ask me about **PHP, Laravel, Magento, or anything [here](https://github.com/OneManPK/OneManPK/issues)**  
 
 </div>
 
@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://onemanpk.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -81,7 +81,7 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=OneManPK&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=OneManPK&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneManPK&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneManPK&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top lang" />
 </div>
 
 <br/><br/>
